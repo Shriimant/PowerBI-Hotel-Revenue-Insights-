@@ -25,4 +25,5 @@ Building this dashboard streamlined decision-making, boosted online bookings by 
 ## Dashboard Views -
 
 The final dashboard presents a clear, insightful, and user-friendly view like this -
+![image alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/c4e0ac4a22df7f3074bc7051098a54829e462f6b/Revenue%20Insights%20-%20Preview%201.png)
 
