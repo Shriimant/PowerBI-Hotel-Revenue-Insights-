@@ -23,5 +23,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 Building this dashboard streamlined decision-making, boosted online bookings by 25% in the first quarter and helped grow market share while improving operational efficiency. 
 ## Dashboard Views -
+These are the required views.
+## Home View
+![image_alt](
 
 
