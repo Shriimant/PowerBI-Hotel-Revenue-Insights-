@@ -22,9 +22,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## Key Insights
 
 Building this dashboard streamlined decision-making, boosted online bookings by 25% in the first quarter and helped grow market share while improving operational efficiency. 
-## Dashboard Views -
-These are the required views.
+## Dashboard Views 
+These are the required views -
 ## Home View
-![image_alt](
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Home%20-%20Hospitality%20Domain.png)
 
 
