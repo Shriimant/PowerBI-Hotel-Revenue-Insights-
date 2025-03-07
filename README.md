@@ -33,4 +33,7 @@ These are the required views -
 ## Revenue Overview
 ![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Revenue%20Overview.png)
 
+## Performance Overview
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Performance%20Overview.png)
+
 
