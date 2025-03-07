@@ -39,3 +39,4 @@ These are the required views -
 ## Live Dashboard Link 
 (https://app.powerbi.com/view?r=eyJrIjoiODQ4YWViNmUtMjAyYi00OTQwLTgyYzgtNzUyOTMzMWFlNjYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+<iframe title="Revenue Insights FINAL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YWViNmUtMjAyYi00OTQwLTgyYzgtNzUyOTMzMWFlNjYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
