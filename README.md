@@ -37,6 +37,5 @@ These are the required views -
 ![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Performance%20Overview.png)
 
 ## Live Dashboard Link 
-
-
+(https://app.powerbi.com/view?r=eyJrIjoiODQ4YWViNmUtMjAyYi00OTQwLTgyYzgtNzUyOTMzMWFlNjYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
