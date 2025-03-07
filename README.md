@@ -30,4 +30,7 @@ These are the required views -
 ## Booking Overview
 ![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Booking%20Overview.png)
 
+## Revenue Overview
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Revenue%20Overview.png)
+
 
