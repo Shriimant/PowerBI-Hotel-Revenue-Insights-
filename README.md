@@ -26,5 +26,7 @@ Building this dashboard streamlined decision-making, boosted online bookings by 
 These are the required views -
 ## Home View
 ![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Home%20-%20Hospitality%20Domain.png)
+##Booking Overview
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Booking%20Overview.png)
 
 
