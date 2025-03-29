@@ -21,7 +21,13 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Key Insights
 
-Building this dashboard streamlined decision-making, boosted online bookings by 25% in the first quarter and helped grow market share while improving operational efficiency. 
+1. Building this dashboard streamlined decision-making, boosted online bookings by 25% in the first quarter and helped grow market share while improving operational efficiency. 
+2. Best-Performing Property: AtliQ Exotica led with ₹320M revenue, an occupancy rate of 57.2%, and a cancellation rate of 24.2%.
+3. Highest Occupancy: AtliQ Bay recorded the highest occupancy rate (66%).
+4. Top Market by Occupancy & Ratings: Delhi had the best occupancy and customer ratings, followed by Hyderabad, Mumbai, and Bangalore.
+5. Peak Revenue Week: Week 24 saw the highest revenue at ₹139 M.
+6. Used Page Navigation to have seamless experience across entire report.
+
 ## Dashboard Views 
 These are the required views -
 ## Home View
